@@ -426,7 +426,7 @@ mini_project/
 **Alamat untuk menjalankan aplikasi:**
 
 ```text
-http://localhost/lab7_php/mini_project/
+http://localhost/projek-mrkadafi/projek/pemrograman_web/lab7_php/mini_project/
 ```
 
 **Hasil praktikum:**
